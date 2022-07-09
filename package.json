@@ -1,0 +1,19 @@
+{
+  "name": "aoc12",
+  "version": "1.0.0",
+  "description": "Advent of Code Day 12",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc --build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "ts-node": "^10.8.2",
+    "tsconfig-paths": "^4.0.0"
+  }
+}
